@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-mehdi-7a487435a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-mehdi-7a487435a/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/azadbacha555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/azadbacha555" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@freecourses55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@freecourses55" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@FreeCourses55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@freecourses55" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
