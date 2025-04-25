@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mehdi</h1>
 <h3 align="center">A passionate frontend developer & Wordpress Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadyousuf88&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadyousuf88" /> </p>
-
 - 🌱 I’m currently learning **backend development**
 
 - 💬 Ask me about **any thing related to frontend development**
