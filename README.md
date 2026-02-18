@@ -21,6 +21,9 @@
 📫 **Contact Me:**  
 **Email:** muhammadmehdi0555@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/muhammad-mehdi-7a487435a/
+**Facebook:** https://www.facebook.com/muhammadmehdi0555/
+**TikTok:** https://www.tiktok.com/@muhammad_mehdi0555
+**Instagram:** https://www.instagram.com/muhammadmehdi0555/
 
 ---
 
