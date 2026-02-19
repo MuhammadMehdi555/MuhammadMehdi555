@@ -32,11 +32,14 @@
   <a href="https://www.linkedin.com/in/muhammad-mehdi-7a487435a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
-  <a href="https://www.facebook.com/azadbacha555" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
+  <a href="https://www.facebook.com/muhammadmehdi0555/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/FB_Logo_PNG.png/960px-FB_Logo_PNG.png" width="45"/>
   </a>
-  <a href="https://www.youtube.com/@FreeCourses55" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="45"/>
+  <a href="https://www.instagram.com/muhammadmehdi0555/" target="_blank">
+    <img src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338393_1280.png" width="45"/>
+  </a>
+  <a href="https://www.tiktok.com/@muhammad_mehdi0555/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyPwV2WU3Aech7ruGTD-PMdRgmnsI5C6NYA&s" width="45"/>
   </a>
 </p>
 
